@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working on DiDi
 - 👯 I’m interested in messaging systems like Pulsar, Kafka, bookkeeper, etc.
 - 📫 My personal email is: houxiaoyu@apache.org or anonhxygo@gmail.com
 - 📫 WeChat ID: seafood2000
