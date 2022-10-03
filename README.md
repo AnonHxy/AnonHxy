@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👯 I’m interested in messaging systems like Pulsar, Kafka, bookkeeper, etc.
+- 📫 My personal email is: houxiaoyu@apache.org or anonhxygo@gmail.com
+- 📫 WeChat ID: seafood2000
+
+[![AnonHxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonHxy&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
