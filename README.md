@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💬 Your future depends on your dreams, so go to sleep.
+- 👯 I’m interested in messaging systems like Pulsar, Kafka, bookkeeper, etc.
+- 📫 My personal email is: houxiaoyu@apache.org or anonhxygo@gmail.com
+- 📫 WeChat ID: seafood2000
